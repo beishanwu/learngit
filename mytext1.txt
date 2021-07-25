@@ -1,7 +1,7 @@
 Hello wrold!
 My name is yulei!
 append GPL
-New add
+New add bug
 Dev branch
 Creat new branch feature1
 New dev
