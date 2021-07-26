@@ -5,4 +5,4 @@ New add bug
 Dev branch
 Creat new branch feature1
 zhe is master
-Pull conflict
+add github pull conflict
